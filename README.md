@@ -1,11 +1,11 @@
 ```
 :+═0zxBBCy0═|: Bxy0═+. Bxz0═+: BCy01|+. BCyz0═|+: ABCxyz01═|++:.  ABBCCxx   Drawing on the computer.
-.:|10yCBBxz0═+.ABxz1|+.ACxz1|+.ACxz1═+: ACxz0═|+. ABxyz01═|+:.  ABCxxyyz0   Designer-who-codes-type at Avara. Weekends
- :+═1zxCACyz1|:.ACyz1|: ACy0═|: BCy01|:.ABxy01|+. ACxyz1═|+:. ABCxxyz001═   at Rectangle Factory. Previously design at
- .+|10yCBBxy0═|: BCy0═+: Bxz0═+. Bxz0═+: BCyz1|+: ACxy01═|:. ABCxyz011═|+   Rainbow, Tlon, and a few other places.
-A.:|═0zxCACxz1═+. Bxz1═+.ABxz1|+.ACyz1|+.ACxz0═+: ACxy01═+:. BCxyz01═|+::   
- .:|═1zyCBBCy01|:.ACyz1|:.ACy01|: BCy0═|: BCy01|+.ABxy01═+:.ABCxz01═|+:.    https://gavinatkinson.com
- .:|═1zyxBACxz1═+: BCy0═|: Bxy0═+: Bxz0═+.ABxz0═+: BCyz1═+:.ABxyz01|+:. A
+.:|10yCBBxz0═+.ABxz1|+.ACxz1|+.ACxz1═+: ACxz0═|+. ABxyz01═|+:.  ABCxxyyz0   Designer-who-codes-type at Avara. 
+ :+═1zxCACyz1|:.ACyz1|: ACy0═|: BCy01|:.ABxy01|+. ACxyz1═|+:. ABCxxyz001═   Weekends at Rectangle Factory.
+ .+|10yCBBxy0═|: BCy0═+: Bxz0═+. Bxz0═+: BCyz1|+: ACxy01═|:. ABCxyz011═|+   Previously design at Rainbow, Tlon,
+A.:|═0zxCACxz1═+. Bxz1═+.ABxz1|+.ACyz1|+.ACxz0═+: ACxy01═+:. BCxyz01═|+::   and a few other places.
+ .:|═1zyCBBCy01|:.ACyz1|:.ACy01|: BCy0═|: BCy01|+.ABxy01═+:.ABCxz01═|+:.    
+ .:|═1zyxBACxz1═+: BCy0═|: Bxy0═+: Bxz0═+.ABxz0═+: BCyz1═+:.ABxyz01|+:. A   https://gavinatkinson.com
  .+|═1zyxBACxy0═|:.ACxz1═+.ABxz1═+.ACxz1|:.ACyz1|+.ABxz0═|:.ABxyz1═|+. AB
 .:+|═0zyxBABxy01|+. BCy01|:.ACyz1|: ACy0═|: BCy0═|: BCy01|+. BCyz1═|:. AC
 :+|═10zyCBABxyz1═+: ACxz0═+: Bxy0═|: Bxy0═+. Bxz1═+.ABxz0═+: ACxz0═|:. BC
