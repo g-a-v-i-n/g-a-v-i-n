@@ -1,3 +1,4 @@
+```
 :+═0zxBBCy0═|: Bxy0═+. Bxz0═+: BCy01|+. BCyz0═|+: ABCxyz01═|++:.  ABBCCxx
 .:|10yCBBxz0═+.ABxz1|+.ACxz1|+.ACxz1═+: ACxz0═|+. ABxyz01═|+:.  ABCxxyyz0
  :+═1zxCACyz1|:.ACyz1|: ACy0═|: BCy01|:.ABxy01|+. ACxyz1═|+:. ABCxxyz001═
@@ -42,6 +43,7 @@ Cxy01═|:. ABCxyz011═|++:..  AABBCCxxxyyyzzzz0000011111════||||++++::
 Cxy01|+:. BCxyz01═|+::. AABCCxxyyzz00111════||||++++:::::.....    AAABBBC
 Bxy01|+: ABCyz01═|+:. ABBCxyyz0011══||+++:::...    AAAAABBBBBCCCCxxxxyyyz
 BCyz1═+: ABxyz0═|+:. ABCxyzz01══|++::..  AAABBBCCCxxxxxyyyyzzzzz00000111═
+```
 
 Drawing on the computer. Designer-who-codes-type at [Avara](https://avara.xyz). Weekends at [Rectangle Factory](https://rectanglefactory.xyz). Previously design at Rainbow, Tlon, and a few other places.
 
