@@ -1,11 +1,4 @@
 ```
-Drawing on the computer. 
-
-Designer-who-codes-type at Avara. Weekends at Rectangle Factory.
-Previously design at Rainbow, Tlon, and a few other places.
-
-https://gavinatkinson.com
-
  .+|═1zyxBACxy0═|:.ACxz1═+.ABxz1═+.ACxz1|:.ACyz1|+.ABxz0═|:.ABxyz1═|+. AB
 .:+|═0zyxBABxy01|+. BCy01|:.ACyz1|: ACy0═|: BCy0═|: BCy01|+. BCyz1═|:. AC
 :+|═10zyCBABxyz1═+: ACxz0═+: Bxy0═|: Bxy0═+. Bxz1═+.ABxz0═+: ACxz0═|:. BC
